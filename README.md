@@ -1,5 +1,5 @@
 # 2015lab1
-
+#Completely stupid
 [![Binder](http://mybinder.org/badge.svg)](http://mybinder.org/repo/cs109/2015lab1)
 
 Lets talk a bit about how labs and sections work in this course:
